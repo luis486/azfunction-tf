@@ -55,3 +55,17 @@ Este proyecto utiliza Terraform para aprovisionar y gestionar recursos en la nub
 
 4. Confirma la aplicación de los cambios escribiendo `yes` cuando se te solicite.
 
+
+
+#Evidencias
+
+1. Terraform Plan
+   ![image](https://github.com/luis486/azfunction-tf/assets/71047563/a13b8c7c-8cea-4bf2-a406-626b31e61139)
+2. Terraform Apply
+   ![image](https://github.com/luis486/azfunction-tf/assets/71047563/3733ce04-8ea9-46f3-9906-33823f905a8e)
+3. Recursos Creados
+   ![image](https://github.com/luis486/azfunction-tf/assets/71047563/083ca137-7546-4d3b-a29f-d91637eab667)
+4. Funciona!
+   ![image](https://github.com/luis486/azfunction-tf/assets/71047563/6711fb4c-aec5-4727-af53-fbf188ca8f97)
+
+
